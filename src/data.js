@@ -44,14 +44,14 @@ export const categories = [
 export const popularProducts = [
     {
         id:1,
-        img:"/images/product 3.jpg",
+        img:"/images/product-1.jpg",
     },
     {
         id:2,
-        img:"/images/product 3.jpg",
+        img:"/images/product-2.jpg",
     },
     {
         id:3,
-        img:"/images/product 3.jpg",
+        img:"/images/product-3.webp",
     },
 ]
