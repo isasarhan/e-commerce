@@ -1,8 +1,9 @@
-import Home from './pages/Home';
-
+import Register from './pages/Register';
+import './app.css'
+import Login from './pages/Login';
 function App() {
   return (
-    <Home/>
+    <Login/>
   );
 }
 //Issa was here
