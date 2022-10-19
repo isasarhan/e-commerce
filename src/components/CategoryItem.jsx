@@ -1,10 +1,13 @@
 import styled from 'styled-components'
+import { mobile } from "../responsive"
 
 const Container = styled.div`
     flex:1;
     margin:3px;
     height: 70vh;
     position:relative;
+    flex-direction:column;
+
 `
 const Info = styled.div`
     position:absolute;
@@ -15,6 +18,7 @@ const Info = styled.div`
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    
 `
 const Title = styled.h1`
     color:white;
